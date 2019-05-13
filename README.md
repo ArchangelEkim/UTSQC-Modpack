@@ -26,4 +26,4 @@ journeymap-1.12.2-5.5.4
 
 1. Install latest Forge 1.12.2 version
 2. Download 'mods' folder  
-3. Add all .jar files to mod folder in '..\.minecraft\mods\SERVER_VERSION' folder  
+3. Add all .jar files to '..\.minecraft\mods\SERVER_VERSION' folder  
