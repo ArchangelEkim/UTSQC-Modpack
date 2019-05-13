@@ -1,4 +1,6 @@
-# List of UTSQC_Modpack_1.12.2 mods running with forge: forge-1.12.2-14.23.5.2824-universal
+# UTSQC Server Modpack
+
+## List of UTSQC_Modpack_1.12.2 mods running with forge: forge-1.12.2-14.23.5.2824-universal
 
 Baubles-1.12-1.5.2  
 BiomesOPlenty-1.12.2-7.0.1.2419-universal  
@@ -19,3 +21,9 @@ Thaumcraft-1.12.2-6.1.BETA26
 ThaumicInventoryScanning_1.12.2-2.0.10  
 TreeChopper-1.12.2-1.2.4  
 journeymap-1.12.2-5.5.4  
+
+## Installation
+
+1. Install latest Forge 1.12.2 version
+2. Download 'mods' folder  
+3. Add all .jar files to mod folder in '..\.minecraft\mods\SERVER_VERSION' folder  
